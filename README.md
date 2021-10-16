@@ -10,7 +10,7 @@
   <br>
   ![badge](https://img.shields.io/github/last-commit/ratalla816/regex-tutorial)
   <br>
-  ![badge](https://img.shields.io/badge/license-MIT-important)
+  ![badge](https://img.shields.io/badge/license-CC-important)
   
   ## Description
   
@@ -43,9 +43,9 @@
   Rob Atalla
     
   ## License
-  ![badge](https://img.shields.io/badge/license-MIT-important)
+  ![badge](https://img.shields.io/badge/license-CC-important)
   <br>
-  Permission to use this application is granted under the MIT license. <https://opensource.org/licenses/MIT>
+  Permission to use this application is granted under the CC license. <https://creativecommons.org/licenses/>
 
 
   ## Testing
