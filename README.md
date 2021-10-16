@@ -34,7 +34,7 @@
   TBD
 
   ## Screenshot
-  ![Screenshot](TBD)
+  ![Screenshot](assets/images/screenshot.png)
 
   ## Features
   tutorial
