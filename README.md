@@ -14,7 +14,7 @@ Regular expressions (regex) are character sequences that define specific search 
 There are many use cases for regex, but they are typically used for input validation. Here we will examine URL validation using regex, first by identifying the components of a valid URL, then identifying which characters will form a regular expression to test for valid URL components. 
 <br>
 For context, here is a snippet of a regex URL matching sequence:
-/^(https?:\/\/)?([\da-z\.-]+)\.([a-z\.]{2,6})([\/\w \.-]*)*\/?$/
+[(http(s)?):\/\/(www\.)?a-zA-Z0-9@:%._\+~#=]{2,256}\.[a-z]{2,6}\b([-a-zA-Z0-9@:%_\+.~#?&//=]*)
 
 ## Table of Contents
 
