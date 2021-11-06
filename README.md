@@ -17,7 +17,7 @@ For context, here is a snippet of a regex URL matching sequence:
 <br>
 ![snippet](https://user-images.githubusercontent.com/85460602/137650102-1186805e-1b5d-4b3d-842e-4e9a3f4f54bb.PNG)
 <br>
-In this tutorial you will learn how to use regex to validate URLs and how they work!
+In this tutorial you will learn how to use regular expressions to validate URLs and how they work!
 
 
 ## Table of Contents
