@@ -210,6 +210,13 @@ The clip below shows the various URL formats that this expression will match:
  <a href="https://en.wikipedia.org/wiki/List_of_Internet_top-level_domains">wikipedia.org</a>
  <br>
  <a href="https://www.threesl.com/blog/special-characters-regular-expressions-escape/">threesl.com</a>
+ <br>
+ <br>
+ BONUS:
+ <br>
+ If you're looking to get a little crazy this weekend, you should check out this site dedicated to finding the perfect email validation regex for every programming language!
+ <br>
+ <a href="https://emailregex.com/">emailregex.com</a>
  
 
  
